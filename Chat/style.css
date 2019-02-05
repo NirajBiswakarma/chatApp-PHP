@@ -1,0 +1,30 @@
+#loginh1{
+	text-align: center;
+	background-color: purple;
+	color: yellow;
+	margin: 20px;
+}
+legend{
+	color: #051347;
+	font-weight: bold;
+}
+body{
+	background-image: url("./a.jpg");
+}
+label{
+	color: black;
+}
+.input{
+	opacity: 0.6;
+}
+table,th,td{
+  border: 2px solid purple;
+}
+.chatbutton{
+	 background-color: green;
+	 color: white;
+	 font-weight: bold;
+}
+#indexh1{
+	color:grey;
+}
